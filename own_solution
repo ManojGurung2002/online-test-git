@@ -6,6 +6,8 @@ class Solution:
         else:
             False
     
+
+
     def createSubstrings(self, y):
         result = []
         
